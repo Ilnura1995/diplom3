@@ -1,0 +1,14 @@
+pageobjects/MainPage.class
+handlers/Parameters.class
+pageobjects/RegisterPage.class
+praktikum/ProfilePageTests.class
+praktikum/MainPageTests.class
+pageobjects/ProfilePage.class
+pageobjects/ForgotPasswordPage.class
+handlers/WebDriverFactory.class
+handlers/UserResponses.class
+pageobjects/AuthPage.class
+handlers/ApiClient.class
+handlers/User.class
+praktikum/RegisterPageTests.class
+praktikum/AuthTests.class
